@@ -15,3 +15,5 @@
 将编译好的exe可执行文件与按顺序命名好的.bmp文件放在同个文件夹下并允许，程序将生成.bin文件，如./obj内部分测试文件。
 
 .bmp文件命名规则：ph (x).bmp x代表编号（帧）。
+
+.\src\test_TransPhoto.cpp 第六行 #define _OUTPUT_TEST_ 可控制是否在控制台预输出图像（大幅降低编码速度）

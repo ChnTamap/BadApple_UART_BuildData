@@ -3,7 +3,7 @@
 
 #ifdef _TEST_TRANSPHOTO_
 
-#define _OUTPUT_TEST_
+// #define _OUTPUT_TEST_
 
 RgbQuad imageLCD[IMG_SIZE];		//Í¼Ïñ
 BitMapFileHeader fileHeadLCD;   //ÎÄ¼þÍ·
